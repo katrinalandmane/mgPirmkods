@@ -1,0 +1,5 @@
+C:\Users\Katrina\Desktop\41cite\41cite\bin\Debug\41cite.exe
+C:\Users\Katrina\Desktop\41cite\41cite\bin\Debug\41cite.pdb
+C:\Users\Katrina\Desktop\41cite\41cite\obj\Debug\41cite.csprojResolveAssemblyReference.cache
+C:\Users\Katrina\Desktop\41cite\41cite\obj\Debug\41cite.exe
+C:\Users\Katrina\Desktop\41cite\41cite\obj\Debug\41cite.pdb
